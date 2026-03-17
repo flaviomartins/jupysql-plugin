@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.4.6
+
+* Update sql-formatter dependency (includes several improvements and adds support for DuckDB and ClickHouse dialects)
+
 ## 0.4.5
 
 * Removes bootstrap since it was breaking JupyterLab UI
