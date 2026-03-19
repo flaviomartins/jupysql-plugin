@@ -31,6 +31,7 @@
     "src/widgets/connector.ts",
     "src/widgets/index.ts",
     "src/formatter/formatter.ts",
+    "src/formatter/utils.ts",
     "src/syntax-highlight/index.ts",
     "src/completer/index.ts",
     "src/formatter/index.ts",
